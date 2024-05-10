@@ -16,7 +16,7 @@
 </head>
 <body>
     <% for(int i = 0; i < 3; i++) { %>
-        <h1>안녕 나는 greeting이야~~</h1>
+        <h1>greeting !!</h1>
     <% } %>
 
     <h2><%=name %>, <%=age %>살!</h2>
